@@ -95,53 +95,6 @@ const roger = {
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogercipagauta&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogercipagauta&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rogercipagauta&theme=radical&hide_border=true" />
-</div>
-
----
-
-## 🏆 Logros y Trofeos
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rogercipagauta&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
-</div>
-
----
-
-## 🎯 Áreas de Especialización
-
-```mermaid
-mindmap
-  root((Roger Cipagauta))
-    Full Stack Development
-      Frontend Development
-      Backend APIs
-      Database Design
-    Especialización BD
-      SQL Optimization
-      NoSQL Design
-      Data Modeling
-      Performance Tuning
-    DevOps
-      CI/CD Pipelines
-      Containerization
-      Cloud Deployment
-    Arquitectura
-      Microservicios
-      Scalable Systems
-      Clean Architecture
-```
-
----
-
 ## 💼 Proyectos Destacados
 
 <div align="center">
