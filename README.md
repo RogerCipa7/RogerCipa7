@@ -1,142 +1,200 @@
-# 👋 ¡Hola! Soy Roger Cipagauta  
-**Ingeniero de Sistemas | Desarrollador Full Stack**  
-*Especialista en Bases de Datos | Apasionado por la tecnología y la innovación*
+# 👋 ¡Hola! Soy Roger Cipagauta
+
+<div align="center">
+
+### Ingeniero de Sistemas | Desarrollador Full Stack | Especialista en Bases de Datos
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roger-cipagauta-b1626b329/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rogercipa7)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://portafoliorc.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rogercipagauta2003@gmail.com)
+
+![Visitas al perfil](https://komarev.com/ghpvc/?username=rogercipagauta&color=blueviolet&style=flat-square&label=Visitas+al+perfil)
+
+</div>
 
 ---
 
-## 🚀 Sobre mí  
+## 🚀 Sobre mí
+
+Soy un ingeniero de sistemas apasionado por transformar ideas complejas en soluciones digitales eficientes y escalables. Mi experiencia abarca el desarrollo full stack con énfasis en arquitecturas de bases de datos robustas y APIs de alto rendimiento.
+
 ```javascript
-const desarrollador = {
-  nombre: "Roger Cipagauta",
-  profesion: "Ingeniero de Sistemas",
-  rol: "Desarrollador Full Stack",
-  especialidad: "Bases de Datos",
-  tecnologias: ["JavaScript", "React", "Node.js", "Python", "SQL", "MongoDB", "PostgreSQL"],
-  habilidades: ["Backend", "Frontend", "BD Relacionales", "BD NoSQL", "APIs"],
-  pasatiempos: ["Programación", "Videojuegos", "Música", "Aprendizaje continuo"],
-  lema: "Transformando ideas en soluciones digitales robustas"
+const roger = {
+  code: ["JavaScript", "TypeScript", "Python", "SQL"],
+  technologies: {
+    frontend: ["React", "Vue.js", "Tailwind CSS", "HTML5/CSS3"],
+    backend: ["Node.js", "Express", "FastAPI", "Django"],
+    databases: ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
+    devOps: ["Docker", "AWS", "GitHub Actions", "Linux"]
+  },
+  architecture: ["Microservicios", "REST APIs", "MVC", "Event-Driven"],
+  currentFocus: "Optimización de bases de datos y arquitecturas escalables",
+  funFact: "Transformo café en código funcional ☕→💻"
 };
 ```
 
 ---
 
-## 🛠️ Tecnologías y Herramientas  
+## 🛠️ Stack Tecnológico
 
-### **Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<table>
+<tr>
+<td valign="top" width="33%">
 
-### **Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+### Frontend
+<div align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</div>
+</td>
 
-### **🛢️ Bases de Datos**  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<td valign="top" width="33%">
 
-### **⚙️ DevOps y Cloud**  
+### Backend
+<div align="center">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+</div>
+</td>
+
+<td valign="top" width="33%">
+
+### Bases de Datos
+<div align="center">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</div>
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### DevOps & Herramientas
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### **🔧 Herramientas**  
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+</div>
+
 ---
 
-## 📈 Estadísticas de GitHub  
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogercipagauta&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogercipagauta&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rogercipagauta&theme=radical&hide_border=true" />
+</div>
+
+---
+
+## 🏆 Logros y Trofeos
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rogercipagauta&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</div>
+
+---
+
+## 🎯 Áreas de Especialización
+
+```mermaid
+mindmap
+  root((Roger Cipagauta))
+    Full Stack Development
+      Frontend Development
+      Backend APIs
+      Database Design
+    Especialización BD
+      SQL Optimization
+      NoSQL Design
+      Data Modeling
+      Performance Tuning
+    DevOps
+      CI/CD Pipelines
+      Containerization
+      Cloud Deployment
+    Arquitectura
+      Microservicios
+      Scalable Systems
+      Clean Architecture
+```
+
+---
+
+## 💼 Proyectos Destacados
 
 <div align="center">
 
-![Estadísticas de Roger](https://github-readme-stats.vercel.app/api?username=rogercipagauta&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=rogercipagauta&layout=compact&theme=radical&hide_border=true)
-
-![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=rogercipagauta&theme=radical&hide_border=true)
+| Proyecto | Tecnologías | Descripción |
+|----------|------------|-------------|
+| 🚀 **Sistema de Gestión** | React, Node.js, PostgreSQL | Sistema completo con autenticación y gestión de datos |
+| 📊 **Dashboard Analytics** | Vue.js, FastAPI, MongoDB | Dashboard en tiempo real con visualización de datos |
+| 🔐 **API REST Segura** | Express, JWT, Redis | API con autenticación avanzada y caché |
 
 </div>
 
 ---
 
-## 🌟 Proyectos Destacados  
+## 📚 Aprendizaje Continuo
 
-### **🎯 Sistema de Gestión de Inventarios**  
-*Sistema completo para gestión de inventarios con control de stock y reportes*  
-![Tecnologías](https://img.shields.io/badge/React-Node.js-PostgreSQL-blue)  
-[🔗 Repositorio](https://github.com/rogercipagauta/inventory-system) | [🌐 Demo](https://inventory-demo.com)
+Actualmente estoy profundizando en:
 
-### **🚀 API REST para E-commerce**  
-*API robusta para plataforma de comercio electrónico con autenticación JWT*  
-![Tecnologías](https://img.shields.io/badge/Python-FastAPI-MongoDB-green)  
-[🔗 Repositorio](https://github.com/rogercipagauta/ecommerce-api) | [📖 Documentación](https://api-docs.com)
-
-### **📊 Dashboard Analítico**  
-*Dashboard interactivo para visualización de datos con gráficos en tiempo real*  
-![Tecnologías](https://img.shields.io/badge/Vue.js-Express-MySQL-orange)  
-[🔗 Repositorio](https://github.com/rogercipagauta/analytics-dashboard)
+- 🔹 Arquitecturas serverless y cloud-native
+- 🔹 Optimización avanzada de consultas SQL
+- 🔹 Machine Learning aplicado a bases de datos
+- 🔹 Kubernetes y orquestación de contenedores
 
 ---
 
-## 📫 Contacto y Redes  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Roger_Cipagauta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rogercipagauta)
-[![GitHub](https://img.shields.io/badge/GitHub-rogercipagauta-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rogercipagauta)
-[![Email](https://img.shields.io/badge/Email-contacto%40rogercipagauta.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@rogercipagauta.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-rogercipagauta.dev-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://rogercipagauta.dev)
-
----
-
-## 📝 Últimos Artículos  
-<!-- BLOG-POST-LIST:START -->
-- [Optimización de consultas SQL para alto rendimiento](https://blog.rogercipagauta.dev/sql-optimization)
-- [Implementando autenticación JWT en Node.js](https://blog.rogercipagauta.dev/jwt-authentication)
-- [Docker para desarrolladores: Guía práctica](https://blog.rogercipagauta.dev/docker-guide)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🏆 Logros  
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rogercipagauta&theme=radical&margin-w=15&margin-h=15)](https://github.com/rogercipagauta)
-
----
+## 📫 Conecta Conmigo
 
 <div align="center">
 
-## 💡 "Como ingeniero de sistemas, mi objetivo es crear soluciones eficientes, escalables y mantenibles"
+¿Tienes un proyecto interesante o quieres colaborar?
 
-![Visitas al perfil](https://komarev.com/ghpvc/?username=rogercipagauta&color=blueviolet&style=flat-square)
+**¡Hablemos!** Estoy siempre abierto a nuevas oportunidades y colaboraciones.
 
-**⭐ ¡Explora mis repositorios y no dudes en contactarme para colaborar en proyectos interesantes!**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roger-cipagauta-b1626b329/)
+[![Email](https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rogercipagauta2003@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visitar-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://portafoliorc.netlify.app/)
 
 </div>
 
 ---
 
-<details>
-<summary>📊 Métricas adicionales</summary>
+<div align="center">
 
-![Actividad de GitHub](https://github-readme-activity-graph.vercel.app/graph?username=rogercipagauta&theme=radical&hide_border=true)
+### 💡 "El código limpio no se escribe siguiendo reglas. Se escribe con práctica, disciplina y pasión"
 
-</details>
+**⭐ Si te gusta mi trabajo, considera dar una estrella a mis repositorios**
 
-**🎯 Objetivo profesional:** Desarrollar soluciones tecnológicas innovadoras que resuelvan problemas reales, combinando mis conocimientos en ingeniería de sistemas, desarrollo full stack y administración de bases de datos.
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
 
 ---
 
-*Última actualización: 🗓️ {fecha}*
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
