@@ -1,100 +1,77 @@
-# 👋 ¡Hola! Soy Roger Cipagauta
-
+👋 ¡Hola! Soy Roger Cipagauta
 <div align="center">
+Ingeniero de Sistemas | Data Analyst & Full Stack Developer
 
-### Ingeniero de Sistemas | Especialista en Bases de Datos & Backend Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roger-cipagauta-b1626b329/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rogercipa7)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://portafoliorc.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rogercipagauta2003@gmail.com)
 
-**🚀 Especializado en Arquitectura de Datos, APIs y Sistemas Escalables**
+
+
+
+
+
+🚀 Enfocado en análisis de datos, desarrollo web y automatización de procesos
 
 </div>
+🧠 Perfil Profesional
 
----
+Ingeniero de Sistemas con enfoque en administración, modelado y análisis de bases de datos. Experiencia en el uso de SQL, Python y Power BI para automatización de procesos, visualización de información y generación de reportes analíticos.
+He participado en proyectos de desarrollo full stack con Laravel y React, integrando frontend y backend con servicios de datos.
+Mi principal fortaleza es convertir información técnica en soluciones funcionales que optimizan procesos y apoyan la toma de decisiones.
 
-## 📊 **Especialización en Bases de Datos**
+🗄️ Bases de Datos & Análisis
+<div align="center"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" /> </div>
 
-<table>
-<tr>
-<td valign="top" width="50%">
+Habilidades:
 
-### **Base de Datos Relacionales & Supabase**
-<div align="center">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-</div>
+Modelado de bases de datos relacionales
 
-**Habilidades:**
-- ✅ **Diseño de esquemas** optimizados para rendimiento
-- ✅ **Consultas complejas** (CTEs, Window Functions, Subqueries)
-- ✅ **Optimización de índices** y planes de ejecución
-- ✅ **Supabase:** Row Level Security, Realtime, Storage, Edge Functions
-- ✅ **Migraciones** y versionamiento de bases de datos
+Consultas SQL avanzadas
 
-</td>
+Normalización y diseño de esquemas
 
-<td valign="top" width="50%">
+Reportes analíticos con Power BI
 
-### **Base de Datos NoSQL & Caché**
-<div align="center">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</div>
+Automatización de análisis con Python (Pandas, Matplotlib)
 
-**Habilidades:**
-- ✅ Modelado de datos documentales
-- ✅ Agregaciones avanzadas en MongoDB
-- ✅ **Redis para:** Caché, Pub/Sub, Sessions, Rate limiting
-- ✅ Elección estratégica SQL vs NoSQL
+🧑‍💻 Desarrollo Web Full Stack
+<div align="center"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge" /> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /> </div>
 
-</td>
-</tr>
-</table>
+Stack:
 
----
+Frontend: React, HTML, CSS, JavaScript, Tailwind, Bootstrap
 
-## 🏗️ **Arquitectura Backend & APIs**
+Backend: PHP (Laravel), Python (Flask, Django)
 
-### **Stack Principal**
-<div align="center">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-</div>
+Integración frontend/backend con APIs
 
-**Experiencia en:**
-- ✅ **APIs RESTful** con autenticación JWT/OAuth
-- ✅ **GraphQL** para consultas flexibles a datos complejos
-- ✅ **Microservicios** con comunicación asíncrona
-- ✅ **WebSockets** para aplicaciones en tiempo real
-- ✅ **CQRS & Event Sourcing** para sistemas escalables
+Autenticación, CRUDs, dashboards y paneles administrativos
 
----
+📊 Análisis y Visualización
+<div align="center"> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" /> </div>
 
-## 🔧 **Proyectos con Enfoque en Bases de Datos**
+Dashboards analíticos
 
-| Proyecto | Stack | Descripción Técnica |
-|----------|-------|---------------------|
-| **🛒 E-commerce con Supabase** | React, Supabase, Stripe | Sistema completo con **RLS (Row Level Security)**, suscripciones en tiempo real, y almacenamiento optimizado de imágenes |
-| **📈 Analytics Dashboard** | FastAPI, PostgreSQL, Redis | Dashboard con **consultas optimizadas**, caché en Redis, y visualización de métricas en tiempo real |
-| **🔐 Sistema de Autenticación** | Node.js, PostgreSQL, JWT | Arquitectura segura con **hash de contraseñas**, rate limiting, y auditoría de logs en BD |
-| **🚀 API Escalable** | Microservicios, MongoDB, Redis | Sistema distribuido con **consistencia eventual** y colas de mensajes para procesamiento asíncrono |
+Limpieza y transformación de datos
 
----
+Visualización de indicadores (KPIs)
 
-## 📈 **Visualización de Mis Skills en BD**
+Automatización de reportes
 
-```mermaid
-pie title Especialización en Tecnologías de Datos
-    "PostgreSQL & Supabase" : 35
-    "APIs & Backend" : 25
-    "MongoDB & NoSQL" : 20
-    "Redis & Caché" : 10
-    "DevOps & Infraestructura" : 10
+⚙️ Otras Herramientas
+<div align="center"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /> </div>
+
+Control de versiones
+
+Uso de terminal Linux
+
+Conceptos básicos de cloud
+
+Google Search Console
+
+📈 En qué me especializo hoy
+pie title Enfoque Profesional
+    "Análisis de Datos" : 35
+    "Desarrollo Web Full Stack" : 30
+    "Bases de Datos" : 20
+    "Automatización con Python" : 10
+    "Cloud & DevOps básico" : 5
