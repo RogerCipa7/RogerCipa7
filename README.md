@@ -1,8 +1,8 @@
-# 👋 **¡Hola! Soy Roger Cipagauta**
+# 👋 ¡Hola! Soy **Roger Cipagauta**
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Ingeniero+de+Sistemas;Data+Analyst+%26+Full+Stack+Developer;Enfocado+en+An%C3%A1lisis+de+Datos;Desarrollo+Web+y+Automatizaci%C3%B3n" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Frontend+Developer+%F0%9F%9A%80;En+ruta+al+Full+Stack+%F0%9F%8E%AF;React+%7C+Next.js+%7C+TypeScript;Clean+Code+%7C+Scalable+Architectures;Transformando+ideas+en+productos+reales" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -10,291 +10,297 @@
 
 ---
 
-## 🧠 **Perfil Profesional**
+## 🧠 Perfil Profesional
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-**Ingeniero de Sistemas** especializado en **administración, modelado y análisis de bases de datos**. Mi enfoque está en transformar datos en información accionable mediante el uso de tecnologías modernas.
+**Ingeniero de Sistemas** con enfoque en **Desarrollo Frontend** y en ruta al **Full Stack**. Apasionado por construir interfaces modernas, escalables y de alto impacto visual, con una sólida base en arquitectura de software y bases de datos.
 
-### **🎯 Áreas de Especialización:**
-- 📊 **Análisis de Datos:** SQL avanzado, Python (Pandas, NumPy, Matplotlib)
-- 🗄️ **Gestión de Bases de Datos:** MySQL, SQL Server, SQLite, Supabase
-- 📈 **Business Intelligence:** Power BI, visualización de KPIs
-- 🌐 **Desarrollo Full Stack:** React + Laravel + APIs RESTful
-- 🤖 **Automatización:** Scripts Python, ETL, reportes automatizados
+### 🎯 Especialización actual:
+- 🎨 **Frontend:** React, Next.js, Angular, TypeScript, Tailwind CSS
+- 🔧 **Backend:** Laravel, PHP, Python/Django, Flask, C#/.NET
+- 🗄️ **Bases de Datos:** MySQL, PostgreSQL, SQL Server, Supabase
+- 📊 **Data & BI:** Pandas, Power BI, ETL, análisis exploratorio
+- 🤖 **Automatización:** Scripts Python, pipelines de datos, APIs RESTful
 
-### **💡 Propuesta de Valor:**
-Convierto información técnica compleja en **soluciones funcionales** que optimizan procesos empresariales y apoyan la **toma de decisiones estratégicas** basadas en datos.
+### 💡 Propuesta de Valor:
+Creo ecosistemas digitales **funcionales, escalables y bien documentados**, aplicando principios **SOLID** y **Clean Architecture** para resolver problemas reales de negocio.
 
 <br clear="right"/>
+
+<div align="center">
+
+| 🏆 15+ Proyectos | ⚙️ 20+ Tecnologías | 💾 800+ Commits |
+|:-:|:-:|:-:|
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 ---
 
-## 🗄️ **Bases de Datos & Análisis de Datos**
+## 🎨 Frontend — Mi Área Principal
 
 <div align="center">
 
-### **Plataformas de Datos**
+### Frameworks & Librerías UI
 
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> 
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /> 
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+### Estilos & Diseño
+
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 
 </div>
 
-### **💼 Competencias Técnicas:**
+### 📐 Competencias Frontend:
 
-| Área | Habilidades |
-|------|-------------|
-| **📐 Diseño de Datos** | • Modelado ER (Entidad-Relación)<br>• Normalización hasta 3FN<br>• Diseño de esquemas escalables<br>• Optimización de índices |
-| **🔍 Consultas SQL** | • JOINs complejos<br>• Subconsultas y CTEs<br>• Window Functions<br>• Stored Procedures y Triggers |
-| **📊 Análisis** | • Análisis exploratorio de datos (EDA)<br>• Segmentación y clustering<br>• Identificación de patrones y tendencias<br>• Limpieza y transformación (ETL) |
-| **🤖 Automatización** | • Scripts Python (Pandas, SQLAlchemy)<br>• Pipelines de datos<br>• Reportes programados<br>• Integración con APIs |
+| Área | Dominio |
+|------|---------|
+| **React / Next.js** | Hooks, Context API, SSR, SSG, App Router — `95%` |
+| **Angular** | Componentes, servicios, RxJS, routing — `85%` |
+| **TypeScript** | Tipado estricto, interfaces, genéricos — `85%` |
+| **JavaScript ES6+** | Async/Await, desestructuración, módulos — `92%` |
+| **Tailwind CSS** | Utility-first, diseño responsivo, dark mode — `95%` |
+| **Responsive Design** | Mobile-first, Grid, Flexbox — `98%` |
+| **Astro** | Islands architecture, SSG, TypeScript — `80%` |
 
 ---
 
-## 🧑‍💻 **Desarrollo Web Full Stack**
+## ⚙️ Backend — En construcción al Full Stack
 
 <div align="center">
 
-### **Stack Tecnológico**
-
-#### **Frontend**
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-#### **Frameworks CSS**
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-
-#### **Backend**
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23_.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/RESTful_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
 </div>
 
-### **🛠️ Capacidades de Desarrollo:**
-
-```
-Frontend                Backend              Integración
-├── React Components    ├── Laravel MVC      ├── RESTful APIs
-├── State Management    ├── Blade Templates  ├── Autenticación JWT
-├── Responsive Design   ├── Eloquent ORM     ├── CORS Management
-├── Hooks & Context     ├── Migrations       ├── Axios/Fetch
-└── UI Libraries        └── Middleware       └── API Documentation
-```
-
-### **✨ Proyectos Destacados:**
-
-| Proyecto | Stack | Funcionalidad |
-|----------|-------|---------------|
-| **Sistema de Ventas** | Laravel + MySQL | CRUD completo, validaciones, reportes |
-| **Dashboard Analítico** | React + Chart.js | Visualización en tiempo real |
-| **Landing Pages** | HTML/CSS/JS | Formularios, galerías multimedia |
-| **APIs RESTful** | Flask/Django + PostgreSQL | Endpoints seguros, documentación Swagger |
+| Tecnología | Nivel |
+|------------|-------|
+| **PHP / Laravel** | MVC, Eloquent ORM, Blade, Migrations — `90%` |
+| **Python / Django** | ORM, vistas, autenticación — `82%` |
+| **Flask** | APIs ligeras, ETL, integración de datos — `78%` |
+| **C# / .NET** | Fundamentos, APIs básicas — `75%` |
+| **RESTful APIs** | Diseño, documentación Swagger, JWT — `95%` |
+| **System Architecture** | SOLID, Clean Architecture, patrones — `85%` |
 
 ---
 
-## 📊 **Business Intelligence & Visualización**
+## 🗄️ Bases de Datos
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> 
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+
+</div>
+
+| Competencia | Nivel |
+|-------------|-------|
+| **MySQL / PostgreSQL** | Diseño, JOINs, índices, optimización — `92%` |
+| **SQL Server** | Stored Procedures, triggers, vistas — `88%` |
+| **DB Design & Normalización** | Modelado ER, 3FN, esquemas escalables — `95%` |
+| **Query Optimization** | CTEs, Window Functions, planes de ejecución — `90%` |
+| **Supabase** | Auth, Realtime, Row Level Security — `82%` |
+| **NoSQL Basics** | Conceptos, MongoDB básico — `70%` |
+
+---
+
+## 📊 Data & Business Intelligence
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 
 </div>
 
-### **📈 Herramientas de Análisis:**
-
-| Categoría | Herramientas & Técnicas |
-|-----------|-------------------------|
-| **Visualización** | • Dashboards interactivos en Power BI<br>• Gráficos estadísticos (Python)<br>• Reportes ejecutivos en Excel<br>• Storytelling con datos |
-| **Transformación** | • Power Query (M language)<br>• DAX para medidas calculadas<br>• Pandas para ETL<br>• SQL para agregaciones |
-| **KPIs** | • Métricas de negocio<br>• Indicadores de rendimiento<br>• Análisis de tendencias<br>• Benchmarking |
-| **Automatización** | • Actualización automática de reportes<br>• Alertas programadas<br>• Integración con bases de datos<br>• Exportación programada |
-
 ---
 
-## ⚙️ **Herramientas & Tecnologías Complementarias**
+## ⚙️ DevOps, Cloud & Herramientas
 
 <div align="center">
 
-### **Control de Versiones & DevOps**
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> 
+### Control de Versiones
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
 
-### **Sistemas Operativos & Cloud**
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> 
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+### Cloud & Hosting
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 
-### **Otras Herramientas**
+### OS & Terminal
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+
+### Herramientas de Desarrollo
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Calendar_API-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white" />
+<img src="https://img.shields.io/badge/iTunes_API-FC3C44?style=for-the-badge&logo=apple&logoColor=white" />
 
 </div>
 
-### **🔧 Competencias Adicionales:**
-
-- ✅ **Git Flow:** Branching strategies, pull requests, resolución de conflictos
-- ✅ **Terminal Linux:** Bash scripting, administración de servidores
-- ✅ **Cloud Computing:** EC2, S3, RDS (nivel básico-intermedio)
-- ✅ **SEO Técnico:** Google Search Console, meta tags, sitemap
-- ✅ **Contenedorización:** Docker básico para ambientes de desarrollo
+| Competencia | Nivel |
+|-------------|-------|
+| **Git / GitHub** | Git Flow, PRs, resolución de conflictos — `95%` |
+| **Linux / Bash** | Scripting, administración de servidores — `88%` |
+| **Clean Architecture** | SOLID, patrones de diseño, modularidad — `90%` |
+| **Docker** | Contenedores para ambientes de desarrollo — `50%` |
+| **AWS** | EC2, S3, RDS (básico-intermedio) — `55%` |
 
 ---
 
-## 📈 **Distribución de Especialización**
+## 🚀 Proyectos Destacados
 
 <div align="center">
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#2E9EF7', 'primaryTextColor':'#fff', 'primaryBorderColor':'#1a75d2', 'lineColor':'#F8B229', 'secondaryColor':'#006100', 'tertiaryColor':'#fff'}}}%%
-pie title "Mi Enfoque Profesional Actual"
-    "Análisis de Datos & BI" : 35
-    "Desarrollo Full Stack" : 30
-    "Administración de BD" : 20
-    "Automatización Python" : 10
-    "Cloud & DevOps" : 5
+graph TD
+    A[🎨 Portafolio Personal<br/>React + Vite + Tailwind] 
+    B[💅 GlowBook — Centro de Estética<br/>React + TypeScript + Supabase]
+    C[🏭 PURASER — Limpieza Láser<br/>Laravel + PHP + Google Calendar]
+    D[📊 Dashboard Ventas Automotrices<br/>Python + Flask + Pandas]
+    E[🏎️ Revista Automotriz<br/>Astro + TypeScript + Tailwind]
+    F[🥊 UFC Fan — Mundo MMA<br/>Next.js 14 + TypeScript]
+    G[💀 Iron Core Gym<br/>Next.js 16 + TypeScript]
+    H[🎵 Spotify Clone RC<br/>React 18 + iTunes API]
+
+    style A fill:#61DAFB,color:#000
+    style B fill:#FF69B4,color:#000
+    style C fill:#FF2D20,color:#fff
+    style D fill:#3776AB,color:#fff
+    style E fill:#FF5D01,color:#fff
+    style F fill:#D4AF37,color:#000
+    style G fill:#1a1a1a,color:#fff
+    style H fill:#1DB954,color:#000
+```
+
+</div>
+
+| Proyecto | Stack | Tipo | Highlights |
+|----------|-------|------|------------|
+| 🎨 **Portafolio Personal** | React · Vite · Tailwind | Frontend | Sitio personal, buenas prácticas, diseño moderno |
+| 💅 **GlowBook** | React · TS · Supabase | Full Stack | Reservas en tiempo real, dashboard analítico, auth |
+| 🏭 **PURASER** | Laravel · PHP · Tailwind | Full Stack | Sitio corporativo + agendamiento Google Calendar |
+| 📊 **Dashboard Automotriz** | Python · Flask · Pandas | Backend/Data | ETL automático, visualización de métricas |
+| 🏎️ **Revista Automotriz** | Astro · TS · Tailwind | Frontend | Catálogo interactivo, dark/light, animaciones |
+| 🥊 **UFC Fan** | Next.js 14 · TS | Frontend | Luchadores, eventos, animaciones, 100% responsive |
+| 💀 **Iron Core Gym** | Next.js 16 · TS | Frontend | Diseño brutalista, 8 secciones, component-driven |
+| 🎵 **Spotify Clone RC** | React 18 · iTunes API | Frontend | Reproductor real, favoritos, shuffle/repeat, SPA |
+
+---
+
+## 📈 Enfoque Actual
+
+<div align="center">
+
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#2E9EF7','primaryTextColor':'#fff','primaryBorderColor':'#1a75d2','lineColor':'#F8B229'}}}%%
+pie title "Distribución de Especialización"
+    "Frontend (React/Next/Angular)" : 40
+    "Full Stack & Backend" : 25
+    "Bases de Datos" : 20
+    "Data & Automatización" : 10
+    "DevOps & Cloud" : 5
 ```
 
 </div>
 
 ---
 
-## 🎯 **Metodología de Trabajo**
+## 🎓 Certificaciones
+
+| Año | Certificación | Emisor |
+|-----|--------------|--------|
+| 2025 | 📊 Introducción al Análisis de Datos con Python | Desafío Latam |
+| 2025 | 🔐 Ethical Hacker | Cisco Academy |
+| 2025 | 🛡️ Diplomado en Ciberseguridad | Universitaria de Colombia |
+| 2024 | 🖥️ Operating Systems Basics | Cisco Academy |
+| 2024 | 🌐 Network Addressing & Basic Troubleshooting | Cisco Academy |
+| 2024 | 📋 Scrum Foundation Professional (SFPC™) | Certiprof |
+| 2024 | 🤖 Introduction to IoT | Cisco Academy |
+
+---
+
+## 🧭 Metodología de Trabajo
 
 <div align="center">
 
 ```mermaid
 graph LR
-    A[📋 Análisis de<br/>Requisitos] --> B[🗄️ Diseño de<br/>Datos]
-    B --> C[💻 Desarrollo<br/>Backend]
-    C --> D[🎨 Desarrollo<br/>Frontend]
+    A[📋 Análisis<br/>Requisitos] --> B[🗄️ Diseño<br/>de Datos]
+    B --> C[🎨 UI/UX<br/>Frontend]
+    C --> D[⚙️ Desarrollo<br/>Backend]
     D --> E[🔗 Integración<br/>APIs]
-    E --> F[📊 Visualización<br/>& Reportes]
-    F --> G[🧪 Testing &<br/>Validación]
-    G --> H[🚀 Deploy &<br/>Producción]
-    
-    style A fill:#FF6B6B
-    style B fill:#4ECDC4
-    style C fill:#45B7D1
-    style D fill:#FFA07A
-    style E fill:#98D8C8
-    style F fill:#F7B731
-    style G fill:#5F27CD
-    style H fill:#00D2D3
+    E --> F[📊 Testing &<br/>Validación]
+    F --> G[🚀 Deploy &<br/>Producción]
+
+    style A fill:#FF6B6B,color:#fff
+    style B fill:#4ECDC4,color:#fff
+    style C fill:#61DAFB,color:#000
+    style D fill:#FF2D20,color:#fff
+    style E fill:#98D8C8,color:#000
+    style F fill:#5F27CD,color:#fff
+    style G fill:#00D2D3,color:#fff
 ```
 
 </div>
 
 ---
 
-## 💼 **Casos de Uso & Soluciones**
-
-### **🔹 Análisis de Datos Empresariales**
-```python
-# Ejemplo: Análisis de ventas con Pandas
-import pandas as pd
-import matplotlib.pyplot as plt
-
-# Cargar y analizar datos
-df = pd.read_sql("SELECT * FROM ventas", conexion)
-ventas_mensuales = df.groupby('mes')['monto_total'].sum()
-
-# Visualizar tendencia
-ventas_mensuales.plot(kind='line', title='Tendencia de Ventas')
-plt.show()
-```
-
-### **🔹 Dashboard Interactivo**
-```javascript
-// Ejemplo: Componente React con datos en tiempo real
-import { useState, useEffect } from 'react';
-import { LineChart } from 'recharts';
-
-function SalesDashboard() {
-  const [data, setData] = useState([]);
-  
-  useEffect(() => {
-    fetch('/api/sales')
-      .then(res => res.json())
-      .then(setData);
-  }, []);
-  
-  return <LineChart data={data} />;
-}
-```
-
-### **🔹 API RESTful con Laravel**
-```php
-// Endpoint para consulta de ventas
-Route::get('/ventas', function() {
-    return Venta::with('cliente')
-        ->whereBetween('fecha_venta', [request('inicio'), request('fin')])
-        ->get();
-});
-```
-
----
-
-## 📚 **Aprendizaje Continuo**
-
-### **🎓 Actualmente Explorando:**
-
-<div align="center">
-
-| Tecnología | Propósito | Progreso |
-|------------|-----------|----------|
-| 🤖 **Machine Learning** | Scikit-learn, predicciones | 🟢🟢🟢⚪⚪ 60% |
-| 📊 **Tableau** | Visualización avanzada | 🟢🟢⚪⚪⚪ 40% |
-| ☁️ **AWS Certified** | Arquitectura cloud | 🟢🟢🟢⚪⚪ 55% |
-| 🐳 **Docker/K8s** | Orquestación contenedores | 🟢🟢⚪⚪⚪ 45% |
-
-</div>
-
----
-
-## 🌟 **Ventajas Competitivas**
+## 🌟 Ventajas Competitivas
 
 <table>
 <tr>
 <td width="50%">
 
-### **🎯 Enfoque Técnico**
-- ✅ Dominio completo del stack de datos
-- ✅ Integración frontend + backend + DB
-- ✅ Automatización de procesos repetitivos
-- ✅ Documentación clara y mantenible
+### 🎯 Técnico
+- ✅ Frontend moderno: React, Next.js, Angular
+- ✅ TypeScript desde el día uno
+- ✅ Clean Architecture & SOLID
+- ✅ Diseño responsive y accesible
+- ✅ Integración completa frontend + backend + DB
+- ✅ APIs RESTful documentadas
 
 </td>
 <td width="50%">
 
-### **💡 Enfoque de Negocio**
-- ✅ Traducción técnica → lenguaje ejecutivo
+### 💡 Soft Skills & Negocio
+- ✅ Código legible y mantenible
 - ✅ Soluciones orientadas a resultados
-- ✅ Optimización de costos operativos
-- ✅ Soporte a decisiones data-driven
+- ✅ Aprendizaje continuo y autodidacta
+- ✅ Trabajo en equipo con Git Flow
+- ✅ Documentación clara
+- ✅ Abierto a feedback y mejora constante
 
 </td>
 </tr>
@@ -302,31 +308,43 @@ Route::get('/ventas', function() {
 
 ---
 
-## 📫 **Contacto & Colaboración**
+## 📚 Aprendiendo Ahora
+
+| Tecnología | Propósito | Progreso |
+|------------|-----------|----------|
+| 🤖 **Machine Learning** | Scikit-learn, predicciones | 🟢🟢🟢⚪⚪ 60% |
+| ☁️ **AWS Certified** | Arquitectura cloud | 🟢🟢🟢⚪⚪ 55% |
+| 📊 **Tableau** | Visualización avanzada | 🟢🟢⚪⚪⚪ 40% |
+| 🐳 **Docker / K8s** | Orquestación de contenedores | 🟢🟢⚪⚪⚪ 45% |
+
+---
+
+## 📫 Contacto & Colaboración
 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-### **💬 ¡Conectemos!**
+### 💬 ¡Conectemos!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roger-cipagauta-b1626b329/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RogerCipa7)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rogercipagauta2003@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portafoliorc.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portafoliorc.netlify.app/)
 
 ---
 
-### **🚀 Abierto a:**
-- 💼 Oportunidades laborales en análisis de datos y desarrollo full stack
+### 🚀 Abierto a:
+- 💼 Roles Frontend / Full Stack Junior-Mid
 - 🤝 Colaboraciones en proyectos open source
+- 📁 Freelance y proyectos con impacto real
 
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
 
-**"Transformando datos en decisiones, código en soluciones"**
+**"Transformando ideas en productos digitales — código limpio, interfaces que enamoran"**
 
-⭐ **Si te gusta mi trabajo, sígueme en GitHub!** ⭐
+⭐ **¡Si te gusta mi trabajo, sígueme en GitHub!** ⭐
 
 </div>
