@@ -163,7 +163,6 @@ Creo ecosistemas digitales **funcionales, escalables y bien documentados**, apli
 ### Herramientas de Desarrollo
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Calendar_API-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white" />
 <img src="https://img.shields.io/badge/iTunes_API-FC3C44?style=for-the-badge&logo=apple&logoColor=white" />
 
@@ -174,7 +173,6 @@ Creo ecosistemas digitales **funcionales, escalables y bien documentados**, apli
 | **Git / GitHub** | Git Flow, PRs, resolución de conflictos — `95%` |
 | **Linux / Bash** | Scripting, administración de servidores — `88%` |
 | **Clean Architecture** | SOLID, patrones de diseño, modularidad — `90%` |
-| **Docker** | Contenedores para ambientes de desarrollo — `50%` |
 | **AWS** | EC2, S3, RDS (básico-intermedio) — `55%` |
 
 ---
@@ -315,7 +313,6 @@ graph LR
 | 🤖 **Machine Learning** | Scikit-learn, predicciones | 🟢🟢🟢⚪⚪ 60% |
 | ☁️ **AWS Certified** | Arquitectura cloud | 🟢🟢🟢⚪⚪ 55% |
 | 📊 **Tableau** | Visualización avanzada | 🟢🟢⚪⚪⚪ 40% |
-| 🐳 **Docker / K8s** | Orquestación de contenedores | 🟢🟢⚪⚪⚪ 45% |
 
 ---
 
